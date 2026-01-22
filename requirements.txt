@@ -3,3 +3,5 @@ pandas
 matplotlib
 statsmodels
 scikit-learn
+mlxtend
+tqdm
